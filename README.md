@@ -16,14 +16,16 @@
  Download-link: https://www.apachefriends.org/download.html
 
 
- Nach der installation von xampp ladet die .zip Datei bei den "Releases" herunter.
+ Hat man xampp installiert, ladet man sich bei diesem repository die .zip Datei herunter, welche unter "Releases" zu finden ist.
  
- Die .zip file legt man im im "htdocs" Ordner, welches sich im xampp Ordner befindet.
- Man öffnet xampp und startet "Apache" und "MySQL"
+ Die .zip file legt man im "htdocs" Ordner, welches sich im xampp Ordner befindet.
+ Wenn der vorherige Schritt erledigt wurde, öffnet man xampp und startet "Apache" und "MySQL", indem man auf die "Starten" Buttons klickt.
 
 
- Als nächstes fügt man diesen Link im Browser ein.
+ Als nächstes fügt man diesen Link im Browser ein (in der URL-Leiste).
  http://localhost/phpmyadmin/
+ 
+ Was erscheinen sollte, ist "phpmyadmin" ganz gross geschrieben und weiteres.
 
 
  Beim nächsten Schritt klickt man links (bei der grauen Abteilung) auf den "neu" Button (Daneben befindet sich ein Plus Symbol).
