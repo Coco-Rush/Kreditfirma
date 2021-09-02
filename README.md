@@ -3,6 +3,7 @@
  Fertigstellung: 07.07.2021
  
  --------------------Zusätzliche Informationen--------------------
+ 
  Benötigt wird Xampp
 
  Diese Projekt wurde an einem ganzen und einem halben Tag 
@@ -10,6 +11,7 @@
  
 
  --------------------Installationsanweisung--------------------
+ 
  Für die Verwendung wird xampp benötigt.
  Download-link: https://www.apachefriends.org/download.html
 
@@ -48,6 +50,4 @@
 
 
  Wenn alles richtig gemacht wurde, sollte die Website korrekt angezeigt werden.
- 
- 
  
