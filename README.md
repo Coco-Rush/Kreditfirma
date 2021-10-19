@@ -18,7 +18,7 @@
 
  Hat man xampp installiert, ladet man sich bei diesem repository die .zip Datei herunter, welche unter "Releases" zu finden ist.
  
- Die .zip file legt man im "htdocs" Ordner, welches sich im xampp Ordner befindet.
+ Das .zip file legt man im "htdocs" Ordner, welches sich im xampp Ordner befindet.
  Wenn der vorherige Schritt erledigt wurde, öffnet man xampp und startet "Apache" und "MySQL", indem man auf die "Starten" Buttons klickt.
 
 
