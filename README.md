@@ -6,7 +6,7 @@
  
  Benötigt wird Xampp
 
- Dieses Projekt wurde an zwei Tagen 
+ Dieses Projekt wurde in zwei Tagen 
  entworfen, entwickelt und fertiggestellt.
  
 
